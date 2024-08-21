@@ -1,4 +1,4 @@
-'''
+
 
 num1 = 20
 num2 = 30
@@ -30,7 +30,6 @@ size = len(word)
 print("printing only even index chars")
 for i in range(0, size-1, 2):
     print(word[i])
-'''
 
 
 # a program to check if the first and last number of a list is the same
@@ -42,4 +41,7 @@ if num_x[0] == num_x[4]:
 if num_y[0] != num_y[4]:
     print(f"num_y = {num_y}")
     print("result is False")
+
+
+print('git still not working?')
 
